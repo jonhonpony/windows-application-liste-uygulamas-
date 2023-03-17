@@ -1,0 +1,14 @@
+C:\Users\jetix\OneDrive\Masaüstü\kodlar\c#\WindowsForm_uygulamaları\BuyukOrnek\bin\Debug\BuyukOrnek.exe.config
+C:\Users\jetix\OneDrive\Masaüstü\kodlar\c#\WindowsForm_uygulamaları\BuyukOrnek\bin\Debug\BuyukOrnek.exe
+C:\Users\jetix\OneDrive\Masaüstü\kodlar\c#\WindowsForm_uygulamaları\BuyukOrnek\bin\Debug\BuyukOrnek.pdb
+C:\Users\jetix\OneDrive\Masaüstü\kodlar\c#\WindowsForm_uygulamaları\BuyukOrnek\obj\Debug\To-Do_uygulamasi.csproj.AssemblyReference.cache
+C:\Users\jetix\OneDrive\Masaüstü\kodlar\c#\WindowsForm_uygulamaları\BuyukOrnek\obj\Debug\To-Do_uygulamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\jetix\OneDrive\Masaüstü\kodlar\c#\WindowsForm_uygulamaları\BuyukOrnek\obj\Debug\BuyukOrnek.Anaform.resources
+C:\Users\jetix\OneDrive\Masaüstü\kodlar\c#\WindowsForm_uygulamaları\BuyukOrnek\obj\Debug\BuyukOrnek.Properties.Resources.resources
+C:\Users\jetix\OneDrive\Masaüstü\kodlar\c#\WindowsForm_uygulamaları\BuyukOrnek\obj\Debug\To-Do_uygulamasi.csproj.GenerateResource.cache
+C:\Users\jetix\OneDrive\Masaüstü\kodlar\c#\WindowsForm_uygulamaları\BuyukOrnek\obj\Debug\To-Do_uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\jetix\OneDrive\Masaüstü\kodlar\c#\WindowsForm_uygulamaları\BuyukOrnek\obj\Debug\BuyukOrnek.exe
+C:\Users\jetix\OneDrive\Masaüstü\kodlar\c#\WindowsForm_uygulamaları\BuyukOrnek\obj\Debug\BuyukOrnek.pdb
+C:\Users\jetix\OneDrive\Masaüstü\kodlar\c#\WindowsForm_uygulamaları\BuyukOrnek\obj\Debug\BuyukOrnek.GirisForm.resources
+C:\Users\jetix\OneDrive\Masaüstü\kodlar\c#\WindowsForm_uygulamaları\BuyukOrnek\obj\Debug\BuyukOrnek.ToDo.resources
+C:\Users\jetix\OneDrive\Masaüstü\kodlar\c#\WindowsForm_uygulamaları\BuyukOrnek\obj\Debug\BuyukOrnek.Kayitlistesi.resources
